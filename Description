@@ -3,3 +3,5 @@ My app would follow this template with popular book titles on the website Goodre
 Using existing web scraping software, I plan to investigate the top 10,000 books by number of reviews, and gather data on genre, publication date, average star ranking, etc... and creating multiple game modes where the player can select some sort of missing information based on a given set.
 For example, one mode could have a player guess the average star ranking of title five times, awarding points according to the squared distance to the actual average star rating
 The meat of the assignment would involve building an interactive locally hosted web app to run the game, and follow user inputs
+
+I don't plan to work with anyone else for this assignment, and have no other questions, other than the obvious "is this okay for a final project?" !!!
